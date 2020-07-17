@@ -1,4 +1,4 @@
-## Hey 👋🏽, I'm Deepak!
+### Hey 👋🏽, I'm Deepak!
 
 - JavaScript Developer
 - Currently working on Vue 3
