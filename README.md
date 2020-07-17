@@ -3,6 +3,7 @@
 - I am a JavaScript Developer from Pune India
 - Currently working on Vue 3
 - Aprt from work I like to do movies, fitness, cooking, reading and spend time with family
+- You can reach me at deepak.sisodiya@gmail.com
 
 ### 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
