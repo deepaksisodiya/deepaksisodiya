@@ -2,6 +2,7 @@
 
 - I am a JavaScript Developer from Pune India
 - Currently working on Vue 3
+- Aprt from work I like to do movies, fitness, cooking, reading and spend time with famaily members
 
 <p>
   <a href="https://www.linkedin.com/in/deepaksisodiya/" target="new"><img height="30" src="https://github.com/deepaksisodiya/deepaksisodiya/blob/master/linkedin.png?raw=true">
