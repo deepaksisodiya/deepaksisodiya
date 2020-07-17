@@ -1,9 +1,7 @@
 ### Hey 👋🏽, I'm Deepak!
 
-- JavaScript Developer
+- I am a JavaScript Developer from Pune India
 - Currently working on Vue 3
-- Lives in Pune India
-- Social Links
 
 <p>
   <a href="https://www.linkedin.com/in/deepaksisodiya/" target="_blank"><img height="30" src="https://github.com/deepaksisodiya/deepaksisodiya/blob/master/linkedin.png?raw=true">     </a>
