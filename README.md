@@ -5,16 +5,18 @@
 - Aprt from work I like to do movies, fitness, cooking, reading and spend time with family
 
 <p>
-  <a href="https://www.linkedin.com/in/deepaksisodiya/" target="new"><img height="30" src="https://github.com/deepaksisodiya/deepaksisodiya/blob/master/linkedin.png?raw=true">
+  <a href="https://www.linkedin.com/in/deepaksisodiya/" target="new">
+    <img src="https://github.com/deepaksisodiya/deepaksisodiya/blob/master/linkedin.png?raw=true">
   </a>
-  <a href="https://twitter.com/deepaksisodiya" target="new"><img height="30" src="https://github.com/deepaksisodiya/deepaksisodiya/blob/master/icons8-twitter-48.png?raw=true">
+  <a href="https://twitter.com/deepaksisodiya" target="new">
+    <img src="https://github.com/deepaksisodiya/deepaksisodiya/blob/master/icons8-twitter-48.png?raw=true">
   </a>
-  <a href="http://nothingbeyondjavascript.blogspot.com" target="new"><img height="30" src="https://github.com/deepaksisodiya/deepaksisodiya/blob/master/icons8-blogger-48.png?raw=true">
+  <a href="http://nothingbeyondjavascript.blogspot.com" target="new">
+    <img src="https://github.com/deepaksisodiya/deepaksisodiya/blob/master/icons8-blogger-48.png?raw=true">
   </a>
-  
-  <a href="https://medium.com/@deepaksisodiya" target="new"><img height="30" src="https://github.com/deepaksisodiya/deepaksisodiya/blob/master/icons8-medium-monogram-50.png?raw=true">
+  <a href="https://medium.com/@deepaksisodiya" target="new">
+    <img src="https://github.com/deepaksisodiya/deepaksisodiya/blob/master/icons8-medium-monogram-50.png?raw=true">
   </a>
- 
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=deepaksisodiya&show_icons=true" alt="deepaksisodiya" />
