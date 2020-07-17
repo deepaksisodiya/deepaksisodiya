@@ -18,5 +18,3 @@
     <img height="40" src="https://github.com/deepaksisodiya/deepaksisodiya/blob/master/icons8-medium-monogram-50.png?raw=true">
   </a>
 </p>
-
-<img src="https://github-readme-stats.vercel.app/api?username=deepaksisodiya&show_icons=true" alt="deepaksisodiya" />
