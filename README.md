@@ -13,7 +13,7 @@
 ![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
 
-### Social
+### Where to find me
 <p>
   <a href="https://www.linkedin.com/in/deepaksisodiya/" target="new">
     <img height="25" src="https://github.com/deepaksisodiya/deepaksisodiya/blob/master/linkedin.png?raw=true">
