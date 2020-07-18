@@ -16,7 +16,7 @@
 ### Where to find me
 <p>
   <a href="https://www.linkedin.com/in/deepaksisodiya/" target="_blank">
-    <img height="25" src="![sakm](https://github.com/deepaksisodiya/deepaksisodiya/blob/master/linkedin.png?raw=true)">
+    <img height="25" src="https://github.com/deepaksisodiya/deepaksisodiya/blob/master/linkedin.png?raw=true">
   </a>
   <a href="https://twitter.com/deepaksisodiya" target="_blank">
     <img height="30" src="https://github.com/deepaksisodiya/deepaksisodiya/blob/master/icons8-twitter-48.png?raw=true">
