@@ -2,7 +2,7 @@
 
 - I am a JavaScript Developer from Pune India
 - Currently working on Vue 3
-- movies, fitness, cooking, reading and spend time with family
+- Apart from work I live watching movies, fitness, cooking, reading and spend time with family
 - You can reach me at deepak.sisodiya@gmail.com
 
 ### 𝗠𝘆 𝗧𝗲𝗰𝗸 𝗦𝘁𝗮𝗰𝗸
@@ -15,16 +15,19 @@
 
 ### Where to find me
 <p>
-  <a href="https://www.linkedin.com/in/deepaksisodiya/" target="new">
+  <a href="https://www.linkedin.com/in/deepaksisodiya/" target="_blank">
     <img height="25" src="https://github.com/deepaksisodiya/deepaksisodiya/blob/master/linkedin.png?raw=true">
   </a>
-  <a href="https://twitter.com/deepaksisodiya" target="new">
+  <a href="https://twitter.com/deepaksisodiya" target="_blank">
     <img height="30" src="https://github.com/deepaksisodiya/deepaksisodiya/blob/master/icons8-twitter-48.png?raw=true">
   </a>
-  <a href="http://nothingbeyondjavascript.blogspot.com" target="new">
+  <a href="http://nothingbeyondjavascript.blogspot.com" target="_blank">
     <img height="30" src="https://github.com/deepaksisodiya/deepaksisodiya/blob/master/icons8-blogger-48.png?raw=true">
   </a>
-  <a href="https://medium.com/@deepaksisodiya" target="new">
+  <a href="https://medium.com/@deepaksisodiya" target="_blank">
     <img height="30" src="https://github.com/deepaksisodiya/deepaksisodiya/blob/master/icons8-medium-monogram-50.png?raw=true">
   </a>
+</p>
+
+<p><a href="https://github.com/thmsgbrt" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://twitter.com/Guibz16" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> <a href="https://www.linkedin.com/in/thomas-guibert" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@th.guibert" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
