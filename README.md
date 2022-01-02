@@ -1,7 +1,7 @@
 ### Hey 👋🏽, I'm Deepak!
 
 - I am a JavaScript Developer from Pune India
-- Currently working on React and Redux
+- Currently working on Vue.js and Vuex
 - Apart from work I like watching movies, fitness, cooking, reading and spending time with family
 - You can reach me at deepak.sisodiya@gmail.com
 
