@@ -7,9 +7,9 @@
 Welcome to my profile! I'm Deepak Sisodiya, a seasoned Senior Front-End Engineer based in Pune, India. With over a decade of immersive experience in the dynamic realm of web development, I'm passionate about leveraging the power of JavaScript and its versatile frameworks to create transformative digital experiences.
 
 🔧 Expertise Highlights:
-JavaScript Mastery: Fluent in React, Vue, and the latest ES6/ES7 standards.
-Testing Excellence: Proficient in unit testing with Jest and end-to-end testing with Cypress.
-Code Quality Advocate: Committed to crafting scalable, maintainable solutions that stand the test of time.
+- JavaScript Mastery: Fluent in React, Vue, and the latest ES6/ES7 standards.
+- Testing Excellence: Proficient in unit testing with Jest and end-to-end testing with Cypress.
+- Code Quality Advocate: Committed to crafting scalable, maintainable solutions that stand the test of time.
 
 Throughout my career journey, I've had the privilege of working on diverse projects, from enhancing virtual event platforms to revolutionizing meeting collaboration tools. My relentless pursuit of excellence and innovative spirit have consistently driven me to push boundaries and deliver solutions that exceed expectations.
 
