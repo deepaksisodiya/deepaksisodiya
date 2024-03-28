@@ -4,7 +4,7 @@
 
 🌟 Transforming Ideas into Seamless Digital Experiences | 10+ Years Exp. 🌟
 
-Welcome to my LinkedIn profile! I'm Deepak Sisodiya, a seasoned Senior Front-End Engineer based in Pune, India. With over a decade of immersive experience in the dynamic realm of web development, I'm passionate about leveraging the power of JavaScript and its versatile frameworks to create transformative digital experiences.
+Welcome to my profile! I'm Deepak Sisodiya, a seasoned Senior Front-End Engineer based in Pune, India. With over a decade of immersive experience in the dynamic realm of web development, I'm passionate about leveraging the power of JavaScript and its versatile frameworks to create transformative digital experiences.
 
 🔧 Expertise Highlights:
 JavaScript Mastery: Fluent in React, Vue, and the latest ES6/ES7 standards.
