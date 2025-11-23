@@ -1,5 +1,30 @@
 ### Hey 👋🏽, I'm Deepak!
 
+Senior Front-End Engineer with 11+ years of experience building scalable, high-performance Web & Mobile applications using React, React Native, and JavaScript. Proven success leading frontend teams, driving engineering excellence, and delivering impactful product outcomes at scale.
+
+I specialize in frontend architecture, performance optimization, and clean, maintainable engineering practices. I focus on shipping reliable UI experiences backed by solid testing, accessibility, and DevEx improvements.
+
+🔹 Strengths
+• React, React Native, JavaScript (ES6+), TypeScript
+• Frontend architecture, performance tuning, design systems
+• Testing (Jest, Cypress/Playwright), CI/CD automation
+• Accessibility (WCAG AA), quality gates, incremental delivery
+• Mentoring, PR review standards, and scalable team practices
+• Using GitHub Copilot, Claude CLI & Cursor to improve speed and code quality
+
+📈 Selected Impact
+• Improved delivery speed by ~30% using AI workflows and automation
+• Increased test coverage dramatically (Jest 20%→80%, E2E 10%→40%)
+• Migrated large-scale enterprise apps (Vue2→Vue3: 600+ files)
+
+I love solving complex engineering challenges and turning visionary product ideas into intuitive digital experiences.
+
+Let’s connect if you are building something meaningful 🚀
+
+
+
+
+
 🚀 Senior Front-End Engineer | Passionate about Scalable JavaScript Solutions 🚀
 
 🌟 Transforming Ideas into Seamless Digital Experiences | 10+ Years Exp. 🌟
