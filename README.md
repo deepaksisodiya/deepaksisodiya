@@ -4,8 +4,6 @@ Senior Front-End Engineer with 11+ years of experience building scalable, high-p
 
 I specialize in frontend architecture, performance optimization, and clean, maintainable engineering practices. I focus on shipping reliable UI experiences backed by solid testing, accessibility, and DevEx improvements.
 
----
-
 ### 🔹 Strengths
 - React, React Native, JavaScript (ES6+), TypeScript
 - Frontend architecture, performance tuning, design systems
@@ -13,8 +11,6 @@ I specialize in frontend architecture, performance optimization, and clean, main
 - Accessibility (WCAG AA), quality gates, incremental delivery
 - Mentoring, PR review standards, and scalable team practices
 - Using GitHub Copilot, Claude CLI & Cursor to improve speed and code quality
-
----
 
 ### 📈 Selected Impact
 - Improved delivery speed by ~30% using AI workflows and automation
